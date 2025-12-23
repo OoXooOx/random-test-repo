@@ -41,3 +41,20 @@ At a singularity:
 Quantities like density, curvature, or temperature become infinite
 
 Current physics equations stop working
+
+3️⃣ Mathematical Singularity
+
+In mathematics, a singularity is a point where a function:
+
+Is undefined
+
+Becomes infinite
+
+Behaves “badly” (non-smooth, discontinuous)
+
+Example:
+
+f(x) = 1 / x
+
+
+has a singularity at x = 0.
