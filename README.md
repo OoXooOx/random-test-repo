@@ -25,3 +25,19 @@ Popularized by:
 Vernor Vinge
 
 Ray Kurzweil (who predicts mid-21st century)
+
+2️⃣ Singularity in Physics
+
+A singularity is a point where known physical laws break down.
+
+Examples:
+
+Black hole singularity – infinite density at the center
+
+Big Bang singularity – the origin of space and time
+
+At a singularity:
+
+Quantities like density, curvature, or temperature become infinite
+
+Current physics equations stop working
