@@ -65,7 +65,7 @@ The script generates TOTP codes using these standard parameters:
 
 Each generated code is valid for 30 seconds and synchronized with AWS's authentication servers based on the current time.
 
-## Code Explanation
+## Code Explanation and other stuff
 
 1. Import the `speakeasy` library for TOTP generation
 2. Define the secret key shared with AWS
